@@ -27,6 +27,15 @@
 
 ---
 
+## 🌱 Open Source Contribution
+
+**Armeria** (by LINE) — Java 기반 마이크로서비스 프레임워크 ⭐ 5.1k
+
+- Flaky 테스트 안정화: `ResponseTimeoutFromStartTest`의 타임아웃 검증 방식을 비율 기반(10%)에서 고정 버퍼(1000ms)로 변경하여 CI 환경에서의 간헐적 실패 해결
+[#6582](https://github.com/line/armeria/issues/6582) → [#6602](https://github.com/line/armeria/pull/6602) (Merged ✅)
+
+---
+
 ## 🏅 Stats
 
 <div align="center">
